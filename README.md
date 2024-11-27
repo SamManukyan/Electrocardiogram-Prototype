@@ -1,2 +1,4 @@
 # Electrocardiogram-Prototype
 A report of the design, implementation, and testing of an electrocardiogram(ECG) prototype.
+
+An electrocardiogram (ECG) is a crucial tool in medical diagnostics, enabling the monitoring and analysis of the heart's electrical activity. This project aimed to design and build an ECG recording device, utilizing various analog and digital components. The device was constructed using filters, operational amplifiers, a programmable gain amplifier (PGA), and a digital moving average implemented with an Arduino microcontroller. The primary objective was to accurately capture and process ECG signals to calculate the heartbeat, emphasizing the integration of digital and analog circuitry along with microcontroller interfacing. This report details the design, implementation, and testing of the ECG recording device, highlighting the challenges faced and the solutions developed.
